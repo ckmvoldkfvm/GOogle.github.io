@@ -1,0 +1,209 @@
+@import url("https://fonts.googleapis.com/css2? family= M+PLUS+1+Code & family= Roboto+Condensed & family= Work+Sans & display=swap");
+.body {
+  background-color: #000;
+}
+.inputline {
+  width: 500px;
+  height: 40px;
+  border-radius: 15px;
+  margin: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 5px;
+  border: solid 1px blue;
+  font-size: 20px;
+}
+.inputline:hover {
+  width: 500px;
+  height: 40px;
+  border-radius: 15px;
+  margin: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 5px;
+  border: solid 1px blue;
+  background-color: #bdc1c6;
+  font-size: 20px;
+}
+.inputdiv {
+  position: relative;
+  text-align: center;
+}
+.qwer {
+  text-align: center;
+  position: relative;
+}
+.imggoogle {
+  margin: 50pt 15px 15px 15px;
+  text-align: center;
+}
+.qwert {
+  font-size: 20px;
+  width: 170px;
+  margin: 0 10px;
+  border-radius: 8px;
+  border: solid 1px blue;
+}
+.qwert1 {
+  font-size: 20px;
+  width: 200px;
+  margin: 0 10px;
+  border-radius: 8px;
+  border: solid 1px blue;
+}
+.qwert1:hover {
+  border-radius: 8px;
+  border: solid 1px gold;
+}
+.qwert:hover {
+  border-radius: 8px;
+  border: solid 1px gold;
+}
+.Buttondiv {
+  color: white;
+  background-color: black;
+  text-align: end;
+  margin: 15px;
+  margin-left: 950px;
+}
+.butt {
+  display: flex;
+}
+.Button {
+  margin: 0 5px;
+  font-size: 18px;
+  text-decoration: underline;
+  color: white;
+}
+.Button:hover {
+  margin: 0 5px;
+  font-size: 18px;
+  text-decoration: underline;
+  color: gold;
+}
+.text {
+  font-size: 18px;
+  font-weight: bold;
+  color: white;
+  position: absolute;
+  bottom: 340px;
+  left: 800px;
+}
+.text:hover {
+  color: gold;
+}
+.textmores {
+  font-size: 24px;
+  font-weight: bold;
+  color: white;
+  margin-left: 5pc;
+  margin-top: 5pc;
+}
+.textmores:hover {
+  font-size: 24px;
+  font-weight: bold;
+  color: gold;
+  margin-left: 5pc;
+  margin-top: 5pc;
+}
+.moser {
+  display: flex;
+  margin-left: 50px;
+  margin-right: auto;
+  position: relative;
+  align-items: center;
+}
+.inputlinems {
+  text-align: center;
+  align-items: center;
+  margin: 5px;
+  width: 600px;
+  border-radius: 15px;
+  border: solid 1px blue;
+  font-size: 20px;
+}
+.inputlinems:hover {
+  width: 600px;
+  border-radius: 15px;
+  margin: 5px;
+  border: solid 1px blue;
+  background-color: #bdc1c6;
+  font-size: 20px;
+}
+.moreserlabel {
+  font-size: 18px;
+  font-weight: normal;
+  color: white;
+  display: table-cell;
+  text-align: end;
+}
+.moreserlabel1 {
+  font-size: 18px;
+  font-weight: normal;
+  color: white;
+  display: table-cell;
+}
+.inputline1 {
+  width: 600px;
+  height: 40px;
+  border-radius: 15px;
+  padding-left: 15px;
+  border: solid 1px blue;
+  font-size: 20px;
+}
+.row {
+  display: inline-block;
+}
+.textmores1 {
+  width: 300px;
+  font-size: 24px;
+  font-weight: bold;
+  color: white;
+  margin-left: 8pc;
+  margin-top: 5pc;
+}
+.textmores1:hover {
+  width: 300px;
+  font-size: 24px;
+  font-weight: bold;
+  color: gold;
+  margin-left: 8pc;
+  margin-top: 5pc;
+}
+.textmores2 {
+  width: 300px;
+  font-size: 24px;
+  font-weight: bold;
+  color: white;
+  margin-left: 550px;
+  margin-top: 5pc;
+}
+.textmores2:hover {
+  width: 300px;
+  font-size: 24px;
+  font-weight: bold;
+  color: gold;
+  margin-left: 550px;
+  margin-top: 5pc;
+}
+.container1 {
+  display: flex;
+}
+.adv_button_search {
+  font-size: 20px;
+  font-weight: normal;
+  width: 210px;
+  height: 40px;
+  margin: 0 10px;
+  border-radius: 8px;
+  border: solid 1px blue;
+}
+.adv_button_search:hover {
+  font-size: 20px;
+  font-weight: normal;
+  width: 210px;
+  height: 40px;
+  margin: 0 10px;
+  border-radius: 8px;
+  border: solid 1px gold;
+}
